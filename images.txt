@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+kubesphere/ks-installer:v3.3.0
 docker.io/calico/cni:v3.25.0
 docker.io/calico/node:v3.25.0
 docker.io/calico/node:v3.25.0
