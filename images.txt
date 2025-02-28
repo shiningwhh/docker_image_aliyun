@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 justsong/one-api
 ghcr.io/teableio/teable:latest
+langgenius/dify-api:latest
